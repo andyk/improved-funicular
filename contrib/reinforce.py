@@ -9,7 +9,7 @@ from copy import deepcopy
 
 params = {"board_width": 4,
           "num_iters": 2,
-          "num_episodes_per_iter":10,
+          "num_episodes_per_iter": 10,
           "max_steps_per_episode": 500,
           "discount_rate": 0.95,
           "epsilon_base": 0.2,
